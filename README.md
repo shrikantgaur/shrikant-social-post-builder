@@ -65,34 +65,34 @@ When designing custom templates, you can use the following dynamic tags to struc
 ## 📸 Screenshots Gallery
 
 ### 1. Dashboard Metrics Summary
-<img src="assets/images/Screenshot-1.png" width="100%" alt="Dashboard Summary" />
+<img src="assets/images/screenshot-1.png" width="100%" alt="Dashboard Summary" />
 
 ### 2. Multi-Post Filter and Selector (Step 1)
-<img src="assets/images/Screenshot-2.png" width="100%" alt="Post Selection Wizard" />
+<img src="assets/images/screenshot-2.png" width="100%" alt="Post Selection Wizard" />
 
 ### 3. Drag-and-Drop Post Order sorting (Step 2)
-<img src="assets/images/Screenshot-3.png" width="100%" alt="Reordering Selected Posts" />
+<img src="assets/images/screenshot-3.png" width="100%" alt="Reordering Selected Posts" />
 
 ### 4. Template Selection with Brand SVG Icons (Step 3)
-<img src="assets/images/Screenshot-4.png" width="100%" alt="Choose Platform Template" />
+<img src="assets/images/screenshot-4.png" width="100%" alt="Choose Platform Template" />
 
 ### 5. Formatting Options Customizer (Step 4)
-<img src="assets/images/Screenshot-5.png" width="100%" alt="Formatting Customizer Options" />
+<img src="assets/images/screenshot-5.png" width="100%" alt="Formatting Customizer Options" />
 
 ### 6. Instantly Compiled ready-to-share Output (Step 5)
-<img src="assets/images/Screenshot-6.png" width="100%" alt="Generate & Copy Output" />
+<img src="assets/images/screenshot-6.png" width="100%" alt="Generate & Copy Output" />
 
 ### 7. Custom Social Platform Templates Manager
-<img src="assets/images/Screenshot-7.png" width="100%" alt="Templates Manager Dashboard" />
+<img src="assets/images/screenshot-7.png" width="100%" alt="Templates Manager Dashboard" />
 
 ### 8. Custom Template Editor Workspace
-<img src="assets/images/Screenshot-8.png" width="100%" alt="Add/Edit Template Workspace" />
+<img src="assets/images/screenshot-8.png" width="100%" alt="Add/Edit Template Workspace" />
 
 ### 9. Generated Compilation History Logs
-<img src="assets/images/Screenshot-9.png" width="100%" alt="History Logging Stats" />
+<img src="assets/images/screenshot-9.png" width="100%" alt="History Logging Stats" />
 
 ### 10. General and Database Retention Settings
-<img src="assets/images/Screenshot-10.png" width="100%" alt="Plugin Preferences Settings" />
+<img src="assets/images/screenshot-10.png" width="100%" alt="Plugin Preferences Settings" />
 
 ---
 
