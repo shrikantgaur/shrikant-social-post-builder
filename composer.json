@@ -1,0 +1,20 @@
+{
+  "name": "sk/social-post-builder",
+  "description": "Generate social media posts from WordPress posts in one click.",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "SK"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "SK\\SocialPostBuilder\\": "includes/"
+    }
+  }
+}
