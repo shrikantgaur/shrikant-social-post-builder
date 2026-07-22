@@ -15,6 +15,10 @@
 </p>
 
 <p align="center">
+  <b>Stable Version:</b> <code>1.0.0</code>
+</p>
+
+<p align="center">
   <a href="https://wordpress.org/plugins/shrikant-social-post-builder/"><img src="https://img.shields.io/wordpress/v/shrikant-social-post-builder.svg" alt="WordPress Plugin Version" /></a>
   <a href="https://wordpress.org/plugins/shrikant-social-post-builder/"><img src="https://img.shields.io/wordpress/plugin/tested/shrikant-social-post-builder.svg" alt="WordPress Plugin Tested Version" /></a>
   <a href="https://www.gnu.org/licenses/gpl-2.0.html"><img src="https://img.shields.io/badge/License-GPL%20v2-blue.svg" alt="License: GPL v2" /></a>
